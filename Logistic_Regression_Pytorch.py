@@ -83,6 +83,8 @@ for epoch in range(num_epochs):
 
 # PLOTANDO O GRÁFICO DA FUNÇÃO DE CUSTO
 print("GRÁFICO DA FUNÇÃO DE CUSTO")
+contador_custo = torch.tensor(contador_custo,requires_grad=True)
+contador_custo = contador_custo.detach().numpy()
 plt.plot(contador_custo, 'b')
 plt.show()
 
