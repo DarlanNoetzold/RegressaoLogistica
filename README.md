@@ -6,3 +6,7 @@
 
 <p align="center"> <img src="https://github.com/DarlanNoetzold/RegressaoLogistica/blob/main/RegLogistica01.jpg" />
 <p align="center"> <img src="https://github.com/DarlanNoetzold/RegressaoLogistica/blob/main/RegLogistica02.jpg" />
+
+  ---
+  
+  ⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
